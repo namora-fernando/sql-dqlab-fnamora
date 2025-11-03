@@ -15,7 +15,8 @@ Each notebook contains structured explanations, example queries, and practical �
 
 ## Repository Structure
 
-```DQLab-Bootcamp-SQL-BigQuery/
+```
+DQLab-Bootcamp-SQL-BigQuery/
 │
 ├── notebooks/
 │ ├── 01_SELECT_LIMIT_ORDERBY/
@@ -30,7 +31,8 @@ Each notebook contains structured explanations, example queries, and practical �
 │ └── 04_NUMBER_DATE_SUBQUERY/
 │ └── New Pilot Class SQL - Number Date Format & SubQuery.ipynb
 │
-└── README.md```
+└── README.md
+```
 
 ---
 
