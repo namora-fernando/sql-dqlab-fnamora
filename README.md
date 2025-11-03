@@ -29,7 +29,7 @@ DQLab-Bootcamp-SQL-BigQuery/
 │ | └── Number Date Format & SubQuery.ipynb
 | |
 │ ├── 04_JOIN/
-│ └── Join.ipynb
+│ | └── Join.ipynb
 │
 └── README.md
 ```
