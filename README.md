@@ -23,13 +23,13 @@ DQLab-Bootcamp-SQL-BigQuery/
 │ │ └── SELECT, LIMIT & ORDER BY.ipynb
 │ │
 │ ├── 02_CONDITIONS_AGGREGATION/
-│ │ └── New Pilot Class SQL - Conditions & Aggregation.ipynb
+│ │ └── Conditions & Aggregation.ipynb
 │ │
 │ └── 03_NUMBER_DATE_SUBQUERY/
-│ └── New Pilot Class SQL - Number Date Format & SubQuery.ipynb
+│ | └── Number Date Format & SubQuery.ipynb
 | |
 │ ├── 04_JOIN/
-│ │ └── New Pilot Class SQL - Join.ipynb
+│ └── Join.ipynb
 │
 └── README.md
 ```
