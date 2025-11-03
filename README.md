@@ -20,7 +20,7 @@ DQLab-Bootcamp-SQL-BigQuery/
 │
 ├── notebooks/
 │ ├── 01_SELECT_LIMIT_ORDERBY/
-│ │ └── New Pilot Class SQL - SELECT, LIMIT & ORDER BY.ipynb
+│ │ └── SELECT, LIMIT & ORDER BY.ipynb
 │ │
 │ ├── 02_CONDITIONS_AGGREGATION/
 │ │ └── New Pilot Class SQL - Conditions & Aggregation.ipynb
@@ -40,10 +40,10 @@ DQLab-Bootcamp-SQL-BigQuery/
 
 | Module | Topics Covered | File |
 |---------|----------------|------|
-| 1 | Basic SELECT, LIMIT, ORDER BY queries | [`New Pilot Class SQL - SELECT, LIMIT & ORDER BY.ipynb`](https://github.com/namora-fernando/inflation-risk-analysis/blob/main/notebooks/01_data_cleaning.ipynb) |
-| 2 | Filtering, Grouping, Aggregation functions | `New Pilot Class SQL - Conditions & Aggregation.ipynb` |
-| 3 | Numeric and Date formatting, Subqueries | `New Pilot Class SQL - Number Date Format & SubQuery.ipynb` |
-| 4 | Table Joins and Aliasing | `New Pilot Class SQL - Join.ipynb` |
+| 1 | Basic SELECT, LIMIT, ORDER BY queries | [`SELECT, LIMIT & ORDER BY.ipynb`]([https://github.com/namora-fernando/inflation-risk-analysis/blob/main/notebooks/01_data_cleaning.ipynb](https://github.com/namora-fernando/sql-dqlab-fnamora/blob/main/notebooks/01_SELECT_LIMIT_ORDERBY/SELECT,%20LIMIT%20&%20ORDER%20BY.ipynb)) |
+| 2 | Filtering, Grouping, Aggregation functions | `Conditions & Aggregation.ipynb` |
+| 3 | Numeric and Date formatting, Subqueries | `Number Date Format & SubQuery.ipynb` |
+| 4 | Table Joins and Aliasing | `Join.ipynb` |
 
 ---
 
