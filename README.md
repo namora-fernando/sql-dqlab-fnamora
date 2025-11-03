@@ -40,7 +40,7 @@ DQLab-Bootcamp-SQL-BigQuery/
 
 | Module | Topics Covered | File |
 |---------|----------------|------|
-| 1 | Basic SELECT, LIMIT, ORDER BY queries | [`SELECT, LIMIT & ORDER BY.ipynb`]([https://github.com/namora-fernando/inflation-risk-analysis/blob/main/notebooks/01_data_cleaning.ipynb](https://github.com/namora-fernando/sql-dqlab-fnamora/blob/main/notebooks/01_SELECT_LIMIT_ORDERBY/SELECT,%20LIMIT%20&%20ORDER%20BY.ipynb)) |
+| 1 | Basic SELECT, LIMIT, ORDER BY queries | [`SELECT, LIMIT & ORDER BY.ipynb`](https://github.com/namora-fernando/sql-dqlab-fnamora/blob/main/notebooks/01_SELECT_LIMIT_ORDERBY/SELECT%2C%20LIMIT%20%26%20ORDER%20BY.ipynb) |
 | 2 | Filtering, Grouping, Aggregation functions | [`Conditions & Aggregation.ipynb`](https://github.com/namora-fernando/sql-dqlab-fnamora/blob/main/notebooks/02_CONDITIONS_AGGREGATION/Conditions%20%26%20Aggregation.ipynb) |
 | 3 | Numeric and Date formatting, Subqueries | [`Number Date Format & SubQuery.ipynb`](https://github.com/namora-fernando/sql-dqlab-fnamora/blob/main/notebooks/03_NUMBER_DATE_SUBQUERY/Number%20Date%20Format%20%26%20SubQuery.ipynb) |
 | 4 | Table Joins and Aliasing | [`Join.ipynb`](https://github.com/namora-fernando/sql-dqlab-fnamora/blob/main/notebooks/04_JOIN/Join.ipynb) |
